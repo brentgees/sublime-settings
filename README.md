@@ -1,10 +1,4 @@
-[@cornelism](http://www.twitter.com/cornelism)'s ST3 Settings
-
-cd into Sublime Text 3 Packages and just open terminal:
+naar packages/user ergaan en dit erin clonen
 ```
-$ git clone https://github.com/cornelism/User.git
+$ git clone https://github.com/brentgees/sublime-settings.git
 ```
-
-Now open ST3 and it will automatically install everything.
-
-So easy! ^^
