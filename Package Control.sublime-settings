@@ -1,0 +1,45 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Can I Use",
+		"Color Highlighter",
+		"CSS3",
+		"CSScomb",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTMLBeautify",
+		"Inc-Dec-Value",
+		"JavaScript Snippets",
+		"jQuery",
+		"LESS",
+		"MarkdownLight",
+		"Monokai Extended",
+		"Package Control",
+		"Project Manager",
+		"Sass",
+		"SASS Snippets",
+		"SCSS",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jsl",
+		"Terminal",
+		"Theme - Brogrammer",
+		"Theme - Cobalt2",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"W3CValidators"
+	]
+}
